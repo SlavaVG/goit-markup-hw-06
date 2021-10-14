@@ -632,10 +632,8 @@ overflow:hidden;
 .porofolio-top-text{
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.33;
-  align-content: left;
-  vertical-align: top;
-  letter-spacing: 3%;
+  line-height: 1.56;
+  letter-spacing: 0.03em;
   color: var(--primary-title-color);
   background-color: rgba(33, 150, 243, 0.9);
   position: absolute;
