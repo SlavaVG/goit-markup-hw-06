@@ -728,7 +728,6 @@ overflow:hidden;
 .modal-input:hover,
 .modal-input:focus {
   border: 1px solid var(--accent-color);
-  
 }
 .modal-input:hover + .input-icon,
 .modal-input:focus + .input-icon{
